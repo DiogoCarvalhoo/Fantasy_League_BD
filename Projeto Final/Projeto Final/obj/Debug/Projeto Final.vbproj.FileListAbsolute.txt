@@ -1,0 +1,64 @@
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\bin\Debug\Projeto Final.xml
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbprojAssemblyReference.cache
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Resources.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.GenerateResource.cache
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.CoreCompileInputs.cache
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.xml
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Home.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\bin\Debug\Projeto Final.xml
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbprojAssemblyReference.cache
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Home.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Resources.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.GenerateResource.cache
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto Final.xml
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Equipa.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Campeonato.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Campeonato.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Equipa.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Estadio.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogador.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.EquipaFicticia.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Estadio.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogador.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.EquipaFicticia.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogo.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.LigaFicticia.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Utilizador.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogo.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.LigaFicticia.resources
+D:\Meo Cloud\ano2-2semestre\BD\ProjetoFinal\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Utilizador.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.JogadorPlaysInJogo.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.JogadorPertEquipaFict.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.EquipaFictPartLiga.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\bin\Debug\Projeto Final.xml
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbprojAssemblyReference.cache
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Campeonato.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Equipa.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.EquipaFicticia.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.EquipaFictPartLiga.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Estadio.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Home.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogador.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.JogadorPertEquipaFict.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.JogadorPlaysInJogo.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Jogo.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.LigaFicticia.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Resources.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Utilizador.resources
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.GenerateResource.cache
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto Final.xml
+C:\Users\diogo\Desktop\BD\P4G3_Projeto\Entrega\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
