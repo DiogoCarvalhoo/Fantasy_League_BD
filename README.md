@@ -6,7 +6,7 @@ Desenvolvimento de uma base de dados de suporte a um jogo de â€œFantasy Leagueâ€
 ====
 
 ### Autores:
-Diogo Carvalho
+Diogo Carvalho<br/>
 Pedro Amaral
 
 ====
